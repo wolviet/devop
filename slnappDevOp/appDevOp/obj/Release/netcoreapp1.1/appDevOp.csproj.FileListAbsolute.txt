@@ -1,0 +1,10 @@
+C:\Users\Gaz\Source\Repos\devop\slnappDevOp\appDevOp\bin\Release\netcoreapp1.1\appDevOp.deps.json
+C:\Users\Gaz\Source\Repos\devop\slnappDevOp\appDevOp\bin\Release\netcoreapp1.1\appDevOp.runtimeconfig.json
+C:\Users\Gaz\Source\Repos\devop\slnappDevOp\appDevOp\bin\Release\netcoreapp1.1\appDevOp.runtimeconfig.dev.json
+C:\Users\Gaz\Source\Repos\devop\slnappDevOp\appDevOp\bin\Release\netcoreapp1.1\appDevOp.dll
+C:\Users\Gaz\Source\Repos\devop\slnappDevOp\appDevOp\bin\Release\netcoreapp1.1\appDevOp.pdb
+C:\Users\Gaz\Source\Repos\devop\slnappDevOp\appDevOp\obj\Release\netcoreapp1.1\appDevOp.csprojResolveAssemblyReference.cache
+C:\Users\Gaz\Source\Repos\devop\slnappDevOp\appDevOp\obj\Release\netcoreapp1.1\appDevOp.csproj.CoreCompileInputs.cache
+C:\Users\Gaz\Source\Repos\devop\slnappDevOp\appDevOp\obj\Release\netcoreapp1.1\appDevOp.AssemblyInfo.cs
+C:\Users\Gaz\Source\Repos\devop\slnappDevOp\appDevOp\obj\Release\netcoreapp1.1\appDevOp.dll
+C:\Users\Gaz\Source\Repos\devop\slnappDevOp\appDevOp\obj\Release\netcoreapp1.1\appDevOp.pdb
